@@ -28,8 +28,8 @@ The system employs a three-tier hybrid approach that maximizes classification ac
 - **Use Cases**: New application logs, anomalous events, complex multi-line entries
 
 ## Snippets
-![image](https://github.com/user-attachments/assets/14d314c2-ce16-48a8-bc77-59d4c3016c0b)
-![image](https://github.com/user-attachments/assets/584f32d4-ae92-4d31-8880-98664f6d3457)
+![image](https://github.com/user-attachments/assets/cd3317ef-4843-49a5-8ddf-89801b4bb428)
+![image](https://github.com/user-attachments/assets/e11d1c10-9eae-44d4-9bf4-43d3bacbc588)
 
 ### Tier 3: Generative Classification (LLM)
 - **Purpose**: Handles novel or poorly-labeled complex patterns
@@ -40,7 +40,7 @@ The system employs a three-tier hybrid approach that maximizes classification ac
 ## 🧠 How It Works
 
 ### Classification Flow
-![image](https://github.com/user-attachments/assets/805c74b1-ef42-4ce7-8363-b7e4f63a0c92)
+![image](https://github.com/user-attachments/assets/1dd71288-c2fe-4394-8449-c8fe6c81c2d1)
 
 1. **Input Processing**: Raw logs are preprocessed and normalized
 2. **Pattern Routing**: System determines the most appropriate classification tier
